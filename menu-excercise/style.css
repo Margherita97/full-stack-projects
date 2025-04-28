@@ -1,4 +1,6 @@
 body{
+    display: flex;
+    flex-direction: column;
     text-align: center;
     background-color: #FFF8F0;
 }
@@ -8,8 +10,14 @@ header {
     padding-bottom: 30px;
 }
 
-div {
+div[border="true"] {
     margin-bottom: 50px;
+    width: 600px;
+    text-align: center;
+    border: 5px solid;
+    border-color: #2C3E50;
+    border-radius: 25px;
+    padding: 50px;
 }
 
 footer {
