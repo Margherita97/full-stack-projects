@@ -1,8 +1,15 @@
 body{
     text-align: center;
+    background-color: #FFF8F0;
+}
+
+header {
+    padding-top: 50px;
 }
 
 img {
     height: 300px;
     width: 700px;
+    border-radius: 42%;
 }
+
