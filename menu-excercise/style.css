@@ -5,6 +5,7 @@ body{
 
 header {
     padding-top: 50px;
+    padding-bottom: 30px;
 }
 
 img {
@@ -12,4 +13,27 @@ img {
     width: 700px;
     border-radius: 42%;
 }
+
+.diner-name {
+    font-weight: 900px;
+    color: #FF6EC7;
+}
+
+.diner-slogan {
+    font-weight: 800px;
+    color: #ADD8E6;
+}
+
+.main-title {
+    color: #2C3E50;
+}
+
+h4 {
+    color: #5DADE2;
+}
+
+p {
+    color: #7F8C8D;
+}
+
 
