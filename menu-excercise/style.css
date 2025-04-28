@@ -8,6 +8,14 @@ header {
     padding-bottom: 30px;
 }
 
+div {
+    margin-bottom: 50px;
+}
+
+footer {
+    display: flex;
+}
+
 img {
     height: 300px;
     width: 700px;
