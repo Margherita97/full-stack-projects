@@ -29,6 +29,13 @@ footer {
     display: flex;
 }
 
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 img {
     height: 300px;
     width: 700px;
@@ -37,17 +44,18 @@ img {
 
 .diner-name {
     font-family: 'Lobster', cursive;
-    font-size: 40px;
+    font-size: 60px;
     font-weight: 900px;
     color: #FF6EC7;
+    margin-bottom: 20px;
 }
 
 .diner-slogan {
     font-family: 'Lobster', cursive;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 300px;
     color: #ADD8E6;
-    margin: 10px;
+    margin-top: 10px;
 }
 
 .main-title {
