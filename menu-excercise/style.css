@@ -35,13 +35,18 @@ img {
 }
 
 .diner-name {
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
     font-weight: 900px;
     color: #FF6EC7;
 }
 
 .diner-slogan {
-    font-weight: 800px;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    font-weight: 300px;
     color: #ADD8E6;
+    margin: 10px;
 }
 
 .main-title {
