@@ -1,6 +1,7 @@
 body{
     text-align: center;
     background-color: #FFF8F0;
+    font-family:'Montserrat', sans-serif;
 }
 
 header {
@@ -51,6 +52,8 @@ img {
 
 .main-title {
     color: #2C3E50;
+    font-weight: 700;
+    font-size: 28px;
 }
 
 h4 {
