@@ -6,11 +6,22 @@ body {
 
 div {
     width: 50%;
+    margin-top: 25%;
     margin-left: 25%;
 }
 
 img {
     width: 100%;
     border: 5px solid white;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 38px;
+}
+
+p {
+    font-size: 12px;
 }
 
