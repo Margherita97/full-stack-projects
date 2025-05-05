@@ -1,3 +1,10 @@
+#hamburger {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    margin-top: 2rem;
+}
+
 .bun {
     background-color: #EE851C;
 }
@@ -30,14 +37,14 @@
 
 #cheese {
     width: 18rem;
-    height: 01rem;
+    height: 1rem;
     border-radius: 1rem 1rem 20rem 20rem;
     background-color: #FFDD42;
 }
 
 #burger{
     width: 18rem;
-    height: 02rem;
+    height: 2rem;
     border-radius: 10px;
     background-color: #792B1C;
     z-index: -1;
@@ -47,7 +54,6 @@
     width: 20rem;
     height: 5rem;
     border-radius: 1rem 1rem 10rem 10rem;
-    left: -1rem;
 }
 
 .seed {
