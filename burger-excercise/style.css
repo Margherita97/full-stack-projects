@@ -6,7 +6,6 @@
     width: 20rem;
     height: 10rem;
     border-radius: 10rem 10rem 1rem 1rem;
-    position: absolute;
 }
 
 #salad {
@@ -54,4 +53,11 @@
     position: relative;
     top: 2rem;
     left: -1rem;
+}
+
+.seed {
+    background-color: #792B1C;
+    width: 0.5rem;
+    border-radius: 50%;
+    position: absolute;
 }
