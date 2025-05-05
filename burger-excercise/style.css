@@ -47,5 +47,10 @@
 }
 
 #bottom {
-
+    width: 20rem;
+    height: 5rem;
+    border-radius: 1rem 1rem 10rem 10rem;
+    position: relative;
+    top: 2rem;
+    left: -1rem;
 }
