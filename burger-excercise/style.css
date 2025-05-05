@@ -30,8 +30,8 @@
 
 #cheese {
     width: 18rem;
-    height: 0.8rem;
-    border-radius: 10px;
+    height: 01rem;
+    border-radius: 1rem 1rem 20rem 20rem;
     background-color: #FFDD42;
     position: relative;
     top: 1.3rem;
@@ -44,6 +44,7 @@
     background-color: #792B1C;
     position: relative;
     top: 0.8rem;
+    z-index: -1;
 }
 
 #bottom {
