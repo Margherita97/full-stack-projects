@@ -3,4 +3,16 @@
     height: 10rem;
     background-color: #EE851C;
     border-radius: 10rem 10rem 1rem 1rem;
+    position: absolute;
 }
+
+#salad {
+    width: 18rem;
+    height: 1.5rem;
+    border-radius: 10px;
+    background-color: #A8E008;
+    position: relative;
+    top: 10rem;
+    left: 1rem;
+}
+
