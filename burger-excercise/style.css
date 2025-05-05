@@ -8,14 +8,16 @@
     border-radius: 10rem 10rem 1rem 1rem;
 }
 
+#inside {
+    position: relative;
+    left: 1rem;
+}
+
 #salad {
     width: 18rem;
     height: 1.5rem;
     border-radius: 10px;
     background-color: #A8E008;
-    position: relative;
-    top: 10rem;
-    left: 1rem;
 }
 
 #tomato {
@@ -23,8 +25,6 @@
     height: 1.3rem;
     border-radius: 10px;
     background-color: #EA0802;
-    position: relative;
-    top: 1.5rem;
 }
 
 #cheese {
@@ -32,8 +32,6 @@
     height: 01rem;
     border-radius: 1rem 1rem 20rem 20rem;
     background-color: #FFDD42;
-    position: relative;
-    top: 1.3rem;
 }
 
 #burger{
@@ -41,8 +39,6 @@
     height: 02rem;
     border-radius: 10px;
     background-color: #792B1C;
-    position: relative;
-    top: 0.8rem;
     z-index: -1;
 }
 
@@ -50,8 +46,6 @@
     width: 20rem;
     height: 5rem;
     border-radius: 1rem 1rem 10rem 10rem;
-    position: relative;
-    top: 2rem;
     left: -1rem;
 }
 
@@ -59,5 +53,5 @@
     background-color: #792B1C;
     width: 0.5rem;
     border-radius: 50%;
-    position: absolute;
+
 }
