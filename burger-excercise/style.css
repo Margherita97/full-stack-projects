@@ -16,3 +16,20 @@
     left: 1rem;
 }
 
+#tomato {
+    width: 18rem;
+    height: 1.3rem;
+    border-radius: 10px;
+    background-color: #EA0802;
+    position: relative;
+    top: 1.5rem;
+}
+
+#cheese {
+    width: 18rem;
+    height: 0.8rem;
+    border-radius: 10px;
+    background-color: #FFDD42;
+    position: relative;
+    top: 1.3rem;
+}
