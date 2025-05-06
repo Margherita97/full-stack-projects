@@ -15,3 +15,13 @@ Menu-excercise
 Laos flag
 
 <img width="909" alt="Screenshot 2025-05-05 alle 09 36 45" src="https://github.com/user-attachments/assets/55ba62c0-b618-4e0d-af45-702e617137ec" />
+
+<br>
+<br>
+<hr>
+<br>
+
+Burger excercise
+
+<img width="331" alt="Screenshot 2025-05-05 alle 12 01 27" src="https://github.com/user-attachments/assets/a059834a-776b-4839-989c-eceb14d06304" />
+
