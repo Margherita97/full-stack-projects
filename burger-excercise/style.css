@@ -3,6 +3,7 @@
     display: flex;
     gap: 5rem;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 #borderimg {
@@ -16,6 +17,9 @@
   #borderimg > p {
     font-size: 50px;
     text-align: center;
+    font-family: "Mogra", system-ui;
+    font-weight: 400;
+    font-style: normal;
   }
 
   section {
