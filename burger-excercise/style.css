@@ -1,4 +1,9 @@
 
+#all {
+    display: flex;
+    gap: 5rem;
+}
+
 #borderimg {
     border: 10px solid transparent;
     padding: 15px;
