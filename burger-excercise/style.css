@@ -1,3 +1,10 @@
+
+#borderimg {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(border.png) 20% round;
+  }
+
 #hamburger {
     display: flex;
     flex-direction: column;
