@@ -12,6 +12,11 @@ body {
   
   h1 {
     font-size: 5rem;
+    max-width: 50%;
+  }
+
+  span {
+    color: #191970;
   }
   
   footer {
