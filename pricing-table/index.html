@@ -15,14 +15,22 @@
 
       .pricing-container {
         display: flex;
+        justify-content: space-around;
       }
 
       .pricing-plan {
         background-color: #e6e6e6;
+        flex-basis: 25%;
       }
 
       /* Hint: What can you do with a media query and flexbox? */
       @media (max-width: 1250px) {
+        .pricing-container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: space-between;
+      }
       }
     </style>
   </head>
