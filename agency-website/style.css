@@ -19,4 +19,13 @@ body {
     color: midnightblue;
   }
   
-  
+.left .tile-image {
+    width: 300px;
+    height:200px;
+    float: left;
+    padding-right: 20px;
+}  
+
+.left .card-title {
+    padding-top: 50px;
+}
