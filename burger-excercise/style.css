@@ -5,6 +5,7 @@
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-around;
+    padding-top: 25vh;
 }
 
 #borderimg {
@@ -146,7 +147,11 @@
 }
 
 @media (min-width:481px) and (max-width: 1200px) {
-    
+
+    #all {
+        padding: 0;
+    }
+
     #borderimg {
         margin: 0;
         padding: 0;
