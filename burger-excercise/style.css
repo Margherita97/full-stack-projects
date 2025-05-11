@@ -144,3 +144,11 @@
     top: 8rem;
     left: 15rem;
 }
+
+@media (min-width:481px) and (max-width: 1200px) {
+    
+    #borderimg {
+        margin: 0;
+        padding: 0;
+      }
+}
