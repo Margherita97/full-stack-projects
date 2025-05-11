@@ -26,10 +26,6 @@
 
   }
 
-  /* section {
-    border: 10px red solid;
-  } */
-
 #hamburger {
     display: flex;
     flex-direction: column;
