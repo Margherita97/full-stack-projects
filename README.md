@@ -47,3 +47,12 @@ Agency website
 <br>
 
 <img width="571" alt="Screenshot 2025-05-09 alle 13 35 10" src="https://github.com/user-attachments/assets/b7383ef3-7797-45e2-982f-bc87a6e891a9" />
+
+<br>
+<br>
+<hr>
+<br>
+
+Pricing table
+
+<img width="1350" alt="Screenshot 2025-05-11 alle 13 36 32" src="https://github.com/user-attachments/assets/129162b8-5d1a-47b4-a8a6-6f45b5b4f20e" />
