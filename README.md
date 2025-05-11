@@ -26,7 +26,13 @@ Laos flag
 
 Burger excercise
 
-<img width="331" alt="Screenshot 2025-05-05 alle 12 01 27" src="https://github.com/user-attachments/assets/a059834a-776b-4839-989c-eceb14d06304" />
+<img width="1392" alt="Screenshot 2025-05-11 alle 09 56 52" src="https://github.com/user-attachments/assets/a0e59011-c143-4eaa-a181-04794b89b561" />
+
+<br>
+<br>
+
+<img width="920" alt="Screenshot 2025-05-11 alle 09 56 40" src="https://github.com/user-attachments/assets/b2469eae-0d28-445a-ab1b-892ce59a4506" />
+
 
 <br>
 <br>
