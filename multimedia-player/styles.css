@@ -1,6 +1,11 @@
+:root {
+    --background: #E4F1FF;
+}
+
 body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     height: 100vh;
+    background-color: var(--background);
 }
