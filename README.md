@@ -1,5 +1,5 @@
 # full-stack-projects
-Projects and excercises part of the Udemy course "Full-stack web developer" and some experiments of mine :)
+HTML and CSS projects and excercises part of the Udemy course "Full-stack web developer" and some experiments of mine :) 
 
 Menu-excercise
 
@@ -56,3 +56,13 @@ Agency website
 Pricing table
 
 <img width="1350" alt="Screenshot 2025-05-11 alle 13 36 32" src="https://github.com/user-attachments/assets/129162b8-5d1a-47b4-a8a6-6f45b5b4f20e" />
+
+<br>
+<br>
+<hr>
+<br>
+
+Mondrian painting
+
+<img width="765" alt="Screenshot 2025-05-12 alle 16 40 22" src="https://github.com/user-attachments/assets/f2f0d3ff-c9e5-4b1b-9a09-fa46ba78cc0b" />
+
