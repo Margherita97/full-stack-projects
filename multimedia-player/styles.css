@@ -1,5 +1,7 @@
 :root {
     --background: #E4F1FF;
+    --header: #27005D;
+    --header-text: #E4F1FF;
 }
 
 body {
@@ -7,5 +9,16 @@ body {
     flex-direction: column;
     justify-content: space-between;
     height: 100vh;
+    margin: 0;
+    padding: 0;
     background-color: var(--background);
+}
+
+
+#header {
+    background-color: var(--header);
+}
+
+h1 {
+    color: var(--header-text);
 }
