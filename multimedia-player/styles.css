@@ -34,3 +34,8 @@ h2 {
     font-weight: 500;
     font-size: 1.5rem;
 }
+
+.player {
+    padding-left: 3rem;
+    padding-top: 5rem;
+}
