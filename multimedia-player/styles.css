@@ -39,3 +39,8 @@ h2 {
     padding-left: 3rem;
     padding-top: 5rem;
 }
+
+.title {
+    display: flex;
+    justify-content: space-between;
+}
