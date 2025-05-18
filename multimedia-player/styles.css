@@ -56,8 +56,16 @@ h2:hover {
     margin-left: 4rem;
 }
 
-.icon-text {
+.icon {
     width: 2rem;
     align-self: center;
+}
+
+.icon.header {
+    background-color: var(--header-text);
+    margin-right: 4rem;
+    border-radius: 50%;
+    height: 4rem;
+    width: 4rem;
 }
 
