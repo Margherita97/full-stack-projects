@@ -2,7 +2,8 @@
     --background: #E4F1FF;
     --header: #27005D;
     --header-text: #E4F1FF;
-    --body-text: #27005D;
+    --heading-text: #27005D;
+    --body-text: #4A2A75;
     --hover: #9400FF;
 }
 
@@ -32,10 +33,16 @@ h1 {
 }
 
 h2 {
-    color: var(--body-text);
+    color: var(--heading-text);
     font-family: "Orbitron", sans-serif;
     font-weight: 500;
     font-size: 1.5rem;
+}
+
+p {
+    color: var(--body-text);
+    font-family: "Orbitron", sans-serif;
+    font-size: 1rem;
 }
 
 h2:hover {
