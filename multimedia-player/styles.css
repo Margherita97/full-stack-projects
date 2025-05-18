@@ -42,6 +42,5 @@ h2 {
 
 .title {
     display: flex;
-    justify-content: space-between;
-    max-width: 300px;
+    gap: 1rem;
 }
