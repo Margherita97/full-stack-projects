@@ -44,3 +44,7 @@ h2 {
     display: flex;
     gap: 1rem;
 }
+
+.media {
+    margin-left: 2rem;
+}
