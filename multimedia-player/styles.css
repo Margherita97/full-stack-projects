@@ -3,6 +3,7 @@
     --header: #27005D;
     --header-text: #E4F1FF;
     --body-text: #27005D;
+    --hover: #9400FF;
 }
 
 body {
@@ -38,7 +39,7 @@ h2 {
 }
 
 h2:hover {
-    color: #9400FF;
+    color: var(--hover);
 }
 
 .player {
@@ -48,9 +49,15 @@ h2:hover {
 
 .title {
     display: flex;
-    gap: 1rem;
+    gap: 2rem;
 }
 
 .media {
-    margin-left: 2rem;
+    margin-left: 4rem;
 }
+
+.icon-text {
+    width: 2rem;
+    align-self: center;
+}
+
