@@ -35,6 +35,10 @@ h2 {
     font-size: 1.5rem;
 }
 
+h2:hover {
+    color: #9400FF;
+}
+
 .player {
     padding-left: 3rem;
     padding-top: 5rem;
