@@ -17,6 +17,22 @@ body {
     background-color: var(--background);
 }
 
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#multimedia {
+    display: flex;
+    flex-direction: column;
+}
+
+.three {
+    width: 10rem;
+    height: ;
+}
+
 
 #header {
     background-color: var(--header);
