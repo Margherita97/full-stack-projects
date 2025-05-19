@@ -76,3 +76,13 @@ h2:hover {
     width: 4rem;
 }
 
+#footer {
+    background-color: var(--header);
+    padding: 1rem 0;
+}
+
+#footer > p {
+    color: var(--header-text);
+    padding-left: 2rem;
+    font-size: 0.8rem;
+}
