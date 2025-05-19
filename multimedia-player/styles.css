@@ -76,6 +76,10 @@ h2:hover {
     width: 4rem;
 }
 
+.player.transcript {
+    margin-bottom: 5rem;
+}
+
 #footer {
     background-color: var(--header);
     padding: 1rem 0;
