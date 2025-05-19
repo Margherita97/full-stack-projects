@@ -28,9 +28,15 @@ body {
     flex-direction: column;
 }
 
-.three {
-    width: 10rem;
-    height: ;
+#three {
+    align-self: center;
+}
+
+.three-img {
+    width: 20rem;
+    height: 600px;
+    padding-right: 10rem;
+    border-radius: 50%;
 }
 
 
