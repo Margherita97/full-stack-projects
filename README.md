@@ -73,7 +73,12 @@ Mondrian painting
 
 Multimedia player
 
+<img width="1450" alt="Screenshot 2025-05-26 alle 11 09 49" src="https://github.com/user-attachments/assets/088dfa6f-e9e0-473e-a850-1688870268b9" />
+
+<br>
+<br>
+
 <img width="772" alt="Screenshot 2025-05-26 alle 11 09 34" src="https://github.com/user-attachments/assets/300b32ac-de85-4f98-a651-763017b93e0d" />
 
-<img width="1450" alt="Screenshot 2025-05-26 alle 11 09 49" src="https://github.com/user-attachments/assets/088dfa6f-e9e0-473e-a850-1688870268b9" />
+
 
